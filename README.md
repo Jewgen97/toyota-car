@@ -18,4 +18,4 @@ car_data = [
 toyota_count = count_toyota_cars(car_data)
 print("Number of Toyota cars:", toyota_count)
  count = 0
-# Example usage:
+
